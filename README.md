@@ -70,6 +70,13 @@ This lab simulates a real enterprise environment where:
 ---  
   
 ## 🏗️ Lab Architecture  
+## 🏛️ Architecture Diagrams
+
+### Active Directory Structure
+![AD Architecture](./diagrams/ad-architecture.svg)
+
+### Lab Setup Flow
+![Lab Setup Flow](./diagrams/lab-setup-flow.svg)
   
 - 1 Windows Server VM (Domain Controller)  
 - Domain: `lab.local`  
