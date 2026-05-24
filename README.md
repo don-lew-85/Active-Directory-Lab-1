@@ -361,6 +361,4 @@ Get-ADPrincipalGroupMembership -Identity "alice.chen" | Select-Object Name
 
 ## 📝 Notes
 
-Document everything you build. Write down what you created, what commands you ran, and what you learned from each step. This becomes your **portfolio entry**.
 
-When an interviewer asks about Active Directory experience — this is your answer.
