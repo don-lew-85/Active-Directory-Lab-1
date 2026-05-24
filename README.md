@@ -2,6 +2,8 @@
 
 **Windows Server 2025 · Azure Free Account · Identity & Access Management**
 
+https://www.loom.com/share/5b70e07b87eb4f42b7b82620e2dad02a
+
 ---
 
 ## 📋 Lab Details
