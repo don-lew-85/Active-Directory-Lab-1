@@ -1,3 +1,4 @@
+https://www.loom.com/share/5b70e07b87eb4f42b7b82620e2dad02a
 # 🧠 Active Directory Lab 1  
   
 **Windows Server 2025 · Azure Free Tier · Identity & Access Management**  
